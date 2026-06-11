@@ -6,7 +6,7 @@ and export to your editing workflow.
 ## Support
 
 For questions or feedback, please contact:  
-dotmyi.support@gmail.com
+uthoughtitover@gmail.com
 
 ## Features
 
